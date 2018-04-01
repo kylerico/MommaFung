@@ -714,16 +714,10 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 }
 
 .vid{
-  text-align: center;
-            color: #fff;
-            background-image: url(../img/vidbackground.png);
+ background-color: #ffd1dc;
+          
             background-repeat: no-repeat;
-            background-attachment: scroll;
-            background-position: center center;
-            -webkit-background-size: cover;
-            -moz-background-size: cover;
-            -o-background-size: cover;
-            background-size: cover
+            background-position: center
   left: 0px;
         top:0px;
         z-index: 1;
